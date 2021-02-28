@@ -1,0 +1,3 @@
+- Botão de OAuth com o GitHub
+- Serverless com Next.js na Vercel
+- SideBar com Leaderboard
